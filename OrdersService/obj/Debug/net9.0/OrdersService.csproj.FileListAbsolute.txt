@@ -20,6 +20,7 @@ C:\GitHub\5. GRPC Orders Microservice\OrdersService\obj\Debug\net9.0\OrdersServi
 C:\GitHub\5. GRPC Orders Microservice\OrdersService\obj\Debug\net9.0\OrdersService.AssemblyInfo.cs
 C:\GitHub\5. GRPC Orders Microservice\OrdersService\obj\Debug\net9.0\OrdersService.csproj.CoreCompileInputs.cache
 C:\GitHub\5. GRPC Orders Microservice\OrdersService\obj\Debug\net9.0\OrdersService.MvcApplicationPartsAssemblyInfo.cache
+C:\GitHub\5. GRPC Orders Microservice\OrdersService\obj\Debug\net9.0\OrdersService.sourcelink.json
 C:\GitHub\5. GRPC Orders Microservice\OrdersService\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\GitHub\5. GRPC Orders Microservice\OrdersService\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\GitHub\5. GRPC Orders Microservice\OrdersService\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -34,4 +35,3 @@ C:\GitHub\5. GRPC Orders Microservice\OrdersService\obj\Debug\net9.0\refint\Orde
 C:\GitHub\5. GRPC Orders Microservice\OrdersService\obj\Debug\net9.0\OrdersService.pdb
 C:\GitHub\5. GRPC Orders Microservice\OrdersService\obj\Debug\net9.0\OrdersService.genruntimeconfig.cache
 C:\GitHub\5. GRPC Orders Microservice\OrdersService\obj\Debug\net9.0\ref\OrdersService.dll
-C:\GitHub\5. GRPC Orders Microservice\OrdersService\obj\Debug\net9.0\OrdersService.sourcelink.json
