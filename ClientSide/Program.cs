@@ -3,8 +3,11 @@ using OrdersService.Protos;
 
 Console.WriteLine("Starting gRPC client...");
 
-using var channel = GrpcChannel.ForAddress("https://localhost:7108");
+var serverUrl = Environment.GetEnvironmentVariable("GRPC_SERVER") ?? "http://localhost:6006";
+
+using var channel = GrpcChannel.ForAddress(serverUrl);
 var client = new OrderService.OrderServiceClient(channel);
+
 
 var createResponse = await client.CreateOrderAsync(new CreateOrderRequest
 {
